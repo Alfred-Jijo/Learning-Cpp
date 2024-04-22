@@ -1,2 +1,3 @@
-# c/c++-Template
-Template for c/c++ projects with typedefs
+# Leaning C++
+
+folders indicate what topic is being explored
